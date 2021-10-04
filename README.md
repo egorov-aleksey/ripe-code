@@ -7,4 +7,5 @@
 - set DB connection params in `.env` file
 - install dependencies: `npm i`
 - run app: `npm run start:dev`
+- wait 5 minutes while job fetches btc/usd rate
 - open link http://localhost:3000/rates/coingecko/btc/usd
