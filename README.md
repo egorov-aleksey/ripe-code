@@ -1,4 +1,4 @@
-##Setup
+## Setup
 
 - clone repo: `git clone https://github.com/egorov-aleksey/ripe-code.git`
 - change dir: `cd ripe-code`
